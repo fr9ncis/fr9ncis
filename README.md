@@ -6,7 +6,7 @@
 	> wayland is bloated, buggy & sucks.
 - software:
 	- pretty much every single [suckless](https://suckless.org/) program ([forks](https://github.com/fr9ncis?tab=repositories))
-	- TUI/CLI only (except `firefox`, `mpv` and  `mypaint`)
+	- TUI/CLI only (except for `firefox`, `mpv` and  `mypaint`)
 	- `neovim` as my only text editor & IDE
 - colour scheme: gruvbox-dark-hard
 - fonts: FiraCode Nerd Font and FiraMono Nerd Font (monospace)
