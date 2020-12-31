@@ -1,8 +1,7 @@
 - distro: Gentoo Linux
 - init system: OpenRC
-- kernel: 5.x.x
-- window manager: dwm
-- colour scheme: gruvbox-dark-medium
-- fonts: FiraCode and FiraMono (both patched via [Nerd Fonts](https://github.com/ryanoasis/nerd-fonts))
+- kernel: latest
+- window manager: mdwmtp
+- colour scheme: gruvbox (dark with medium contrast)
+- fonts: FiraCode and FiraMono (patched via [Nerd Fonts](https://github.com/ryanoasis/nerd-fonts))
 - user-based config files (aka `dotfiles`): [dotfiles](https://github.com/fr9ncis/dotfiles/)
-- global config files: [globconfig](https://github.com/fr9ncis/globconfig/)
