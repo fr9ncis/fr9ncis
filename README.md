@@ -1,6 +1,4 @@
-- distro: Gentoo Linux
-- init system: OpenRC
-- kernel: latest
+- OS: FreeBSD 13.0
 - window manager: mdwmtp
 - colour scheme: gruvbox (dark with medium contrast)
 - fonts: FiraCode and FiraMono (patched via [Nerd Fonts](https://github.com/ryanoasis/nerd-fonts))
