@@ -1,2 +1,0 @@
-- FreeBSD 13.0-CURRENT
-- [dotfiles](https://github.com/fr9ncis/dotfiles/)
