@@ -8,14 +8,9 @@ so, uhm - what do I put here anyways?
 Crypto wallets
 =====
   - BTC: `null`
-  - BCH: `null`
-  - LTC: `null`
   - ETH: `null`
-  - ETC: `null`
   - ZIL: `null`
   - XMR: `null`
-  - ADA: `null`
-  - DOT: `null`
   - XRP: `null`
 
 Contact
