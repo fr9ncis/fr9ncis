@@ -8,17 +8,17 @@
 [2]: https://www.github.com/fr9ncis
 [3]: https://stackoverflow.com/users/12709483/francesco-la-camera?tab=profile
 
-<p align='center'>
+<div align='center'>
 	<img align='center' src="assets/img/construction.gif">
-<p/>
+<div/>
 
 ## Contact
 
  * e-mail: `francesco.lacamera@lacamera.io` (currently offline)
 
-Get in touch with me over on:
-
-[![linkedin][1.1]][1]
-[![github][2.1]][2]
-[![stackoverflow][3.1]][3]
-
+<p align='center'>
+	Get in touch with me over on:
+	[![linkedin][1.1]][1]
+	[![github][2.1]][2]
+	[![stackoverflow][3.1]][3]
+<p/>
