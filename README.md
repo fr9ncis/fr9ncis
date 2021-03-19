@@ -1,7 +1,7 @@
 <!-- icons -->
-[1.1]: assets/img/linkedin-48.png
-[2.1]: assets/img/github-48.png
-[3.1]: assets/img/stackoverflow-48.png
+[1.1]: assets/icons/linkedin-48.png
+[2.1]: assets/icons/github-48.png
+[3.1]: assets/icons/stackoverflow-48.png
 
 <!-- links -->
 [1]: https://www.linkedin.com/in/fr9ncis
