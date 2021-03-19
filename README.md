@@ -8,7 +8,9 @@
 [2]: https://www.github.com/fr9ncis
 [3]: https://stackoverflow.com/users/12709483/francesco-la-camera?tab=profile
 
-![](assets/img/construction.gif)
+<p align='center'>
+	<img align='center' src="assets/img/construction.gif">
+<p/>
 
 ## Contact
 
