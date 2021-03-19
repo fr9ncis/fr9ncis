@@ -28,10 +28,3 @@ Get in touch with me over on:
 [![linkedin][1.1]][1]
 [![github][2.1]][2]
 [![stackoverflow][3.1]][3]
-
-<!-- powered by FreeBSD -->
-<p align="center">
-  <a href="https://www.freebsd.org/">
-    <img alt="Powered By FreeBSD" src="assets/icons/freebsd.png" width="60" />
-  </a>
-</p>
