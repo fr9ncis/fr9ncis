@@ -22,7 +22,7 @@
 ## Crypto
 Want to send some tendies my way?
 
-  * BTC: `1QC98Y3sG6pVHFNDHRKFQpNBpcKRuH7szd` or `bc1qn33dkfxm2jgn8k9du86kxshem2w5upzr5s6d3q` (SegWit)
+  * BTC: `1QC98Y3sG6pVHFNDHRKFQpNBpcKRuH7szd` (legacy) or `bc1qn33dkfxm2jgn8k9du86kxshem2w5upzr5s6d3q` (SegWit)
   * XMR: `8AWMPvatLpz6UEVoZYWcDyEwBAtPcABcEdvYyXLwxedDBxQKqUoX1tCKm82FWLru9hhRfJCSfiNrRWaUwkzp9gV3K1oZ5qK`
 
 <!-- contact -->
