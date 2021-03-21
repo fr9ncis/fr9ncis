@@ -33,6 +33,7 @@ Want to send some tendies my way?
 Via e-mail: `francesco.lacamera@lacamera.io` (currently offline - sorry 'bout that ¯\\_(ツ)_/¯ ).
 
 Get in touch with me over on:
+
 [![linkedin][1.1]][1]
 [![github][2.1]][2]
 [![stackoverflow][3.1]][3]
