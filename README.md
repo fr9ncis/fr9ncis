@@ -10,17 +10,14 @@
 [3]: https://stackoverflow.com/users/12709483/francesco-la-camera?tab=profile
 [4]: https://lacamera.io/var/static/lacamera/cv.pdf
 
-<!-- construction -->
-<p align="center">
+<!-- <p align="center">
 	<img align="center" src="assets/img/construction.gif">
-</p>
+</p> -->
 
-<!-- header -->
-<h1 align="center">
+<!-- <h1 align="center">
   Francesco La Camera
-</h1>
+</h1> -->
 
-<!-- crypto -->
 ## Crypto
 Want to send some tendies my way?
 
