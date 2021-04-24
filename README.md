@@ -21,7 +21,7 @@
 ## Crypto
 Want to send some tendies my way?
 
-  * BTC: `bc1qn33dkfxm2jgn8k9du86kxshem2w5upzr5s6d3q` (Bech32)
+  * BTC (Bech32): `bc1qn33dkfxm2jgn8k9du86kxshem2w5upzr5s6d3q`
   * XMR: `8AWMPvatLpz6UEVoZYWcDyEwBAtPcABcEdvYyXLwxedDBxQKqUoX1tCKm82FWLru9hhRfJCSfiNrRWaUwkzp9gV3K1oZ5qK`
 
 <!-- contact -->
