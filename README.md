@@ -18,7 +18,7 @@
 
 
 ### Contact
-  * e-mail (preferred): `francesco.lacamera@protonmail.com`
+  * email (preferred): `francesco.lacamera@protonmail.com`
 
 
 [![linkedin][1.1]][1]
