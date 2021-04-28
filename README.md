@@ -22,7 +22,7 @@
 Want to send some tendies my way?
 
   * BTC (Bech32): `bc1qn33dkfxm2jgn8k9du86kxshem2w5upzr5s6d3q`
-  * XMR: `8AWMPvatLpz6UEVoZYWcDyEwBAtPcABcEdvYyXLwxedDBxQKqUoX1tCKm82FWLru9hhRfJCSfiNrRWaUwkzp9gV3K1oZ5qK`
+  * XMR: `89vyHjcNweP68hPdXWJBgRMts8cFxtX2mCoEEvW9uVEnY7UZcRuz1w6NUSAwHJYuXLZJ5p6Z7cmeG999VARKAwYALbYtz79`
 
 <!-- contact -->
 ## Contact
