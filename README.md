@@ -14,6 +14,7 @@
 
 ### Crypto
   * BTC (Bech32): `bc1qn33dkfxm2jgn8k9du86kxshem2w5upzr5s6d3q`
+  * ETH: `0xcf8365b65fbb7b2d062881fd51e8d20824c65d09`
   * XMR: `89vyHjcNweP68hPdXWJBgRMts8cFxtX2mCoEEvW9uVEnY7UZcRuz1w6NUSAwHJYuXLZJ5p6Z7cmeG999VARKAwYALbYtz79`
 
 
