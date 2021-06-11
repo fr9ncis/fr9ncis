@@ -6,7 +6,7 @@
 
 <!-- links -->
 [1]: https://www.linkedin.com/in/fr9ncis
-[2]: https://www.github.com/fr9ncis
+[2]: https://www.github.com/lacamera
 [3]: https://stackoverflow.com/users/12709483/francesco-la-camera?tab=profile
 [4]: https://lacamera.io/var/static/lacamera/cv.pdf
 
