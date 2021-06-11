@@ -10,8 +10,7 @@
 [3]: https://stackoverflow.com/users/12709483/francesco-la-camera?tab=profile
 [4]: https://lacamera.io/var/static/lacamera/cv.pdf
 
-My repositories here are either work-related or
-a mirror of git.lacamera.io.
+Work/uni, mirror of git.lacamera.io.
 
 Contact me: `francesco.lacamera@protonmail.com`
 
