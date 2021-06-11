@@ -10,11 +10,10 @@
 [3]: https://stackoverflow.com/users/12709483/francesco-la-camera?tab=profile
 [4]: https://lacamera.io/var/static/lacamera/cv.pdf
 
-Work/uni, mirror of git.lacamera.io.
+This GitHub account is for work/uni related projects only
+and provides a read-only mirror of git.lacamera.io.
 
 Contact me: `francesco.lacamera@protonmail.com`
-
-Website: `https://lacamera.io/`
 
 * Bitcoin - BTC (Bech32): `bc1qn33dkfxm2jgn8k9du86kxshem2w5upzr5s6d3q`
 * Ethereum - ETH: `0xcf8365b65fbb7b2d062881fd51e8d20824c65d09`
