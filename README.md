@@ -12,7 +12,7 @@
 
 Contact me: `francesco.lacamera@protonmail.com`
 
-* Bitcoin - BTC (Bech32): `bc1qn33dkfxm2jgn8k9du86kxshem2w5upzr5s6d3q`
+* Bitcoin - BTC (bech32): `bc1qn33dkfxm2jgn8k9du86kxshem2w5upzr5s6d3q`
 * Ethereum - ETH: `0xcf8365b65fbb7b2d062881fd51e8d20824c65d09`
 * Monero - XMR: `89vyHjcNweP68hPdXWJBgRMts8cFxtX2mCoEEvW9uVEnY7UZcRuz1w6NUSAwHJYuXLZJ5p6Z7cmeG999VARKAwYALbYtz79`
 
