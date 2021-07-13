@@ -10,7 +10,7 @@
 [3]: https://www.github.com/lacamera
 [4]: https://stackoverflow.com/users/12709483/francesco-la-camera?tab=profile
 
-Contact:
+Contact
   * Mail: `lacamera@lacamera.io`
   * Website: `https://www.lacamera.io/about.html`
 
